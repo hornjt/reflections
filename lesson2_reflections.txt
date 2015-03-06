@@ -1,0 +1,11 @@
+Initializing a Repository
+
+	command: git init
+		creates a new git inside pwd
+		needed to create new git 
+
+Staging Area
+	
+	How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	the staging area is the place where files are added before they are added to a commit. It gives a value of a temporary place where you can look at exactly what will go into your next commit before you add it	
