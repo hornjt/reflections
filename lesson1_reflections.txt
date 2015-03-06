@@ -1,0 +1,27 @@
+3/5/15
+
+Using the diff command from terminal made it a lot easier to spot differences in source code, rather than looking line by line.
+
+diff -u file_one file_two
+
+Having easy access to old files could save a lot of time restoring an older, working version. Also, when changing code, I often times comment things in and out to experiment with different code structures. With version control, I could have the confidence to make changes more quickly and avoid the use of large amounts of comments that need to be removed later on.
+
+Pros and Cons of Manual versus Automatic commits
+	Pros
+		- More logical seperation
+		- Keeping the amount of change per commit the right size
+
+	Cons
+		- Introduction of user error ie forgetting to save
+
+Multi-File Commits
+	Some version control systems like Git save multiple files in one commit because each of the files are linked together.
+
+Using git to view history
+	git log and git diff can be used to find different commits and compare the changes between them
+
+Confidence from version control
+	- Version control gives you the ability to make changes knowing that you will have a saved state that you can revert back to should you make a mistake.	
+
+How do you want to use Git?
+	Using Git for version control on my school projects and other web development endeavors in the future	
